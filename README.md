@@ -1,13 +1,22 @@
-# Byeonggyu Park (ggyuchive)    
+## Byeonggyu Park (ggyuchive)    
 
 ## Github Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggyuchive)](https://github.com/ggyuchive)  
+<a href="https://github.com/ggyuchive">
+  <img align="center" width="49%" src="./metrics-main.svg" />
+</a>
+<a href="https://github.com/ggyuchive">
+  <img align="center" width="49%" src="./metrics-lang-notable.svg" />
+</a>
+
 ## Problem Solving Stats  
-<p align="left">
-  <a href="https://www.acmicpc.net/user/itinbangk">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=itinbangk" height="160">
-  </a>
-</p>
+<!-- ## Competitive Programming Stats  -->
+<a href="https://www.acmicpc.net/user/itinbangk">
+  <img align="center" width="49%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=itinbangk">
+</a>
+<a href="https://codeforces.com/profile/zarami1214">
+  <img align="center" width="49%" src="https://cf.leed.at?id=zarami1214">
+</a>
+
 <!--
 <p align="left">
   <a href="https://projecteuler.net/location=South_Korea">
@@ -15,13 +24,6 @@
   </a>
 </p>
 -->
-
-<!-- ## Competitive Programming Stats  -->
-<p align="left">
-  <a href="https://codeforces.com/profile/zarami1214">
-    <img src="https://cf.leed.at?id=zarami1214" height="130">
-  </a>
-</p>
 <!--
 <p align="left">
   <a href="https://leetcode.com/u/Bang_K/">
